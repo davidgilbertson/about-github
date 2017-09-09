@@ -1,2 +1,2 @@
-Since way back in 1996, [iHerb](https://au.iherb.com/info/about) has made great efforts to enhance your online shopping experience. Initially, our company promoted the benefits of St. John's Wort; hence the name: iHerb. We carry one of the largest selections of high-quality natural products at the best overall value. Consider iHerb your own California-based natural products store!
-<script>alert(999)</script>
+# Built for developers
+GitHub is a development platform inspired by the way you work. From [open source](https://github.com/open-source) to [business](https://github.com/business), you can host and review code, manage projects, and build software alongside millions of other developers.
