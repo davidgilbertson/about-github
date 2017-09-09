@@ -8,7 +8,7 @@ As it turns out, it's pretty easy to turn your `README.md` into its own stylish 
 Click [Projects](https://github.com/davidgilbertson/about-github/projects) up the top of this page
 
 # Milestones
-Click "Issues" then "Milestones"
+Here's an example [Go live](https://github.com/davidgilbertson/about-github/milestone/1) milestone with issues sorted into a particular order
 
 # Wiki
 You guesssed it, click [Wiki](https://github.com/davidgilbertson/about-github/wiki) up the top
