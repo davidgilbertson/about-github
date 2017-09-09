@@ -1,5 +1,4 @@
-# about-github
-This is a repo for messing around with GitHub
+Here's some things that GitHub can do that I think are kinda cool
 
 # GitHub pages (with Jekyll)
 As it turns out, it's pretty easy to turn your `README.md` into its own stylish looking page. If you're not already, check out https://davidgilbertson.github.io/about-github to see this readme wrapped in a Jekyll theme.
