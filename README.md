@@ -4,8 +4,8 @@ This is a repo for messing around with GitHub
 # GitHub pages (with Jekyll)
 As it turns out, it's pretty easy to turn your `README.md` into its own stylish looking page. If you're not already, check out https://davidgilbertson.github.io/about-github to see this readme wrapped in a Jekyll theme.
 
-# Kanban board
-Click [Projects](https://github.com/davidgilbertson/about-github/projects) up the top of this page
+# Project board
+Click [Projects](https://github.com/davidgilbertson/about-github/projects) up the top of this page to see the projects.
 
 # Milestones
 Here's an example [Go live](https://github.com/davidgilbertson/about-github/milestone/1) milestone with issues sorted into a particular order
