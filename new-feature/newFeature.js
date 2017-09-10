@@ -1,4 +1,6 @@
 module.exports = {
   version: 1,
-  // TODO (davidg): export something
+  doSomething() {
+    console.log('I did something');
+  },
 };
